@@ -26,11 +26,10 @@ public class InformacionEmpleado {
         System.out.println(Nombre);
 
         System.out.println("SALARIO BRUTO");
-        System.out.println(SalarioBruto);
+        System.out.println("$"+SalarioBruto);
 
         System.out.println("SALARIO NETO");
-        System.out.println(SalarioNeto);
-
+        System.out.println("$"+SalarioNeto);
 
     }
 }
