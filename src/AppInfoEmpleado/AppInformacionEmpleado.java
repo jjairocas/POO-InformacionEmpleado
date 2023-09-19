@@ -124,10 +124,5 @@ public class AppInformacionEmpleado extends JFrame{
             }
         });
     }
-    public static void main(String[] args) {
-        AppInformacionEmpleado form=new AppInformacionEmpleado();
-        form.setVisible(true);
-    }
-
 
 }
