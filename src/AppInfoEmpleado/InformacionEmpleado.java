@@ -1,6 +1,17 @@
+package AppInfoEmpleado;
+
 import java.util.*;
 
 public class InformacionEmpleado {
+
+    public static void main(String[] args) {
+        AppInformacionEmpleado form=new AppInformacionEmpleado();
+        form.setVisible(true);
+    }
+
+}
+
+ /*Calculo de las operaciones sin utilizar la Clase
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
         System.out.println("CODIGO EMPLEADO:");
@@ -31,5 +42,4 @@ public class InformacionEmpleado {
         System.out.println("SALARIO NETO");
         System.out.println("$"+SalarioNeto);
 
-    }
-}
+    }*/
